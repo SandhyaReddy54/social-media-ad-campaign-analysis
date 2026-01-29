@@ -1,5 +1,5 @@
 # 📊social-media-ad-campaign-analysis
-## End-to-End Analytics Project using SQL Server & Power BI
+#### End-to-End Analytics Project using SQL Server & Power BI
 
 ## 📌Project Overview
 This project presents an end-to-end analysis of social media advertising campaigns using Power BI and SQL Server. The objective was to evaluate campaign effectiveness, analyze ad-level performance, and understand user engagement patterns across demographics, geography, and time.
