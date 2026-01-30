@@ -2,9 +2,10 @@
 #### End-to-End Analytics Project using SQL Server & Power BI
 
 ## 📌Project Overview
-This project presents an end-to-end analysis of social media advertising campaigns using Power BI and SQL Server. The objective was to evaluate campaign effectiveness, analyze ad-level performance, and understand user engagement patterns across demographics, geography, and time.
-Interactive dashboards, drill-through navigation, and DAX-based metrics are used to transform raw advertising data into actionable insights that support data-driven decision-making.
-The project demonstrates how raw, multi-table campaign data can be transformed into actionable marketing insights through proper data modeling, SQL-based preprocessing, and interactive dashboarding.
+
+This project presents an end-to-end business intelligence analysis of social media advertising campaigns using SQL Server and Power BI. The objective is to evaluate campaign effectiveness, analyze ad-level performance, and understand user engagement patterns across demographics, geography, and time to support data-driven optimization decisions.
+
+Raw multi-table advertising data is transformed into actionable marketing insights through structured data modeling, SQL-based preparation, and interactive Power BI dashboards. Advanced Power BI features such as drill-through navigation, tooltip pages, and DAX-based efficiency metrics were implemented to enhance analytical clarity while maintaining proper business context.
 
 ## 🎯 Business Objective
 The primary goals of this analysis were to:
@@ -169,12 +170,6 @@ Automating refresh schedules in Power BI Service
 Expanding analysis to include conversion and revenue data
 
 
-
-This project analyzes digital advertising performance across multiple campaigns, platforms, and audience segments using Power BI. The objective was to evaluate campaign effectiveness, diagnose ad-level performance, and understand user engagement patterns to support data-driven optimization decisions.
-
-The analysis integrates campaign, ad, user, and event-level data to compute key performance indicators such as impressions, engagement rate, and cost efficiency. A structured dashboard flow was designed, beginning with an executive overview and progressively enabling deeper analysis through campaign comparisons, ad-level drill-through, and focused tooltip insights.
-
-Advanced Power BI features such as drill-through navigation, tooltip pages, and DAX-based efficiency metrics were implemented to enhance analytical clarity while maintaining proper business context. The final dashboards provide actionable insights into budget utilization, platform effectiveness, creative performance, and audience behavior.
 
 ## 🛠️ Tools & Technologies Used
 #### SQL Server (SSMS)
