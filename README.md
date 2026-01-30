@@ -146,10 +146,5 @@ Extend analysis to include conversion and revenue data
 #### SQL Server (SSMS) * Data ingestion, validation, analytical views
 #### Power BI Desktop * Power Query, DAX, dashboards, drill-through, tooltips
 
-## 📎 Detailed Results & Analysis
 
-For deeper technical and business-level documentation, please refer to:
-- **Business Analysis Report (PDF)** – Detailed insights, findings, and strategic recommendations  
-- **DAX Formula Reference (PDF)** – Complete list of measures with explanations  
-These documents provide additional depth beyond the dashboard visuals.
 
