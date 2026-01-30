@@ -146,5 +146,8 @@ Extend analysis to include conversion and revenue data
 #### SQL Server (SSMS) * Data ingestion, validation, analytical views
 #### Power BI Desktop * Power Query, DAX, dashboards, drill-through, tooltips
 
+## Data Availability
+The raw CSV files are not included in this repository to keep it lightweight.
+They can be provided upon request.
 
 
