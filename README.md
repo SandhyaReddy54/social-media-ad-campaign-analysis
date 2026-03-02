@@ -61,15 +61,6 @@ The analysis is based on four relational datasets:
 * Checked for missing values and duplicate records
 * Verified referential integrity between campaigns, ads, users, and events
 
-## 📐 Analytical SQL Views
-To support reporting and performance analysis, multiple SQL views were created:
-* Campaign Performance View – Aggregated engagement metrics by campaign and platform
-* Ad Format Performance View – Compared engagement across ad types
-* Audience Engagement View – Summarized interactions by age, gender, and country
-* Time-Based Engagement View – Analyzed performance by day and time of day
-* Campaign Budget Efficiency View – Enabled cost-per-engagement and ROI proxy analysis
-These views were directly consumed by Power BI.
-
 ## 📊 Power BI Data Transformation & Modeling
 #### Power Query
 * Renamed and standardized columns
